@@ -4,9 +4,7 @@
 - 🔧 On the side, I love to build projects to fix my every day problems and recently got hooked on building discord bots 😁🤖
 > - Personalized Discord Music Bot 🎵
 > - Book reading tracker to share my progress with friends 📖
-
-- 📫 You can reach me at [sherilynkuo@gmail.com](url)
-- 🖥️ My website is currently a WIP but I'd love for you to check it out
-## [sherilynkuo.com](url)
+- 🖥️ My website is currently a WIP but I'd love for you to check it out **[sherilynkuo.com](url)**
+- 📫 Otherwise you can reach me at [sherilynkuo@gmail.com](url)
 
 
