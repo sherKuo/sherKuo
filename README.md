@@ -7,4 +7,5 @@
 - 🖥️ My website is currently a WIP but I'd love for you to check it out **[sherilynkuo.com](url)**
 - 📫 Otherwise you can reach me at [sherilynkuo@gmail.com](url)
 
+![Static Badge](https://img.shields.io/badge/Python)
 
