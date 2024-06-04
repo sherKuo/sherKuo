@@ -8,7 +8,7 @@
 > - Book reading tracker to share my progress with friends 📖
 
 ### 🖥️ Personal Website
-- My website is currently a WIP but I'd love for you to check it out **[sherilynkuo.com](url)**
+- My website is currently a WIP but I'd love for you to check it out [https://sherilynkuo.com/](url)
 
 ### 📫 You can Reach me at 
 -  [sherilynkuo@gmail.com](url)
